@@ -14,7 +14,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmdgh1592%2Fhit-counter&count_bg=%2386E3A4&title_bg=%234F4F4F&icon=googlecardboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/tmdgh1592)
 
 <br>
-💌 Contact : csh633348@gmail.com<br>
+💌 Contact : bik1111@khu.ac.kr <br>
 🔎 Clean Code와 UX/UI 모두를 중요시하는 부지런한 안드로이드 개발자, 최승호입니다.<br>
 🥕 결과뿐만 아니라 '소통과 과정 속에서 얻는 깨달음'을 중요시합니다.<br><br>
 
@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br><br>
   <b>🤏 Techs that I've used at least once 🤏<b/><br>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
