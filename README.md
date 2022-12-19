@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Jin Cheol, Backend developer from <![image](https://user-images.githubusercontent.com/76617139/208467076-09546d1f-032d-4bbd-97e0-689bc0e61b20.png)
- width="13"/> <b>Seoul, South Korea </b>
+<p>Welcome to my page! </br> I'm Jin Cheol, Backend developer from <img rsc="https://user-images.githubusercontent.com/76617139/208467076-09546d1f-032d-4bbd-97e0-689bc0e61b20.png" width="13"/> <b>Seoul, South Korea </b>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
