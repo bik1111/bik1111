@@ -4,8 +4,9 @@
 
 <p><em>Software Convergence Student at <a href="http://swcon.khu.ac.kr/wordpress/"> KHU Uni.  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-  
 <a href="https://velog.io/@bik1111"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 <h3>Things I code with</h3>
