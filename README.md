@@ -31,7 +31,7 @@
 
 <a href="https://velog.io/@bik1111"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://www.instagram.com/cheolll2/" target="_blank"><img src="https://img.shields.io/badge/cheolll2-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
-<a href="https://www.notion.so/bik1111-ON-ve-eb343f49c4ec41f49a7a74ed1e69cbba" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
+<a href="https://www.notion.so/e301333fb3924275b5fcc8026a888d5a" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
 
 
  <!-- Conecct section: END -->
