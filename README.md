@@ -2,7 +2,8 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Jin Cheol.</h1>
 
-<p><em>Software Convergence Student at <a href="http://swcon.khu.ac.kr/wordpress/"> KHU Uni.
+<p><em>Software Convergence Student at <a href="http://swcon.khu.ac.kr/wordpress/"> KHU Uni.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
   
 <a href="https://velog.io/@bik1111"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
