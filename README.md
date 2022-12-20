@@ -30,7 +30,7 @@
 <h2>Connect with me </h3>
 
 <a href="https://velog.io/@bik1111"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://www.instagram.com/bik1111/" target="_blank"><img src="https://img.shields.io/badge/cheolll2-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/cheolll2/" target="_blank"><img src="https://img.shields.io/badge/cheolll2-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
 
 
  <!-- Conecct section: END -->
