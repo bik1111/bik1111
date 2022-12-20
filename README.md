@@ -45,5 +45,5 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bik1111)](https://github.com/bik1111/github-readme-stats)
+[![bik1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=bik1111)](https://github.com/bik1111/github-readme-stats)
 
