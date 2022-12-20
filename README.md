@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"> <br>
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-squre&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-squre&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 
 
 </p>
