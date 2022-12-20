@@ -5,8 +5,6 @@
 <p><em>Software Convergence Student at <a href="http://swcon.khu.ac.kr/wordpress/"> KHU Uni.  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://velog.io/@bik1111"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-
 <h3>Things I code with</h3>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -22,12 +20,8 @@
 
 
 <h2>Connect with me </h3>
-    <p>
-        <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/@lauragift_
-/"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-<a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
-   </p>
+
+<a href="https://velog.io/@bik1111"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
  <!-- Conecct section: END -->
  
