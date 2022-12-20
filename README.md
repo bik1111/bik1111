@@ -41,8 +41,9 @@
   <!-- GitHub section -->
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
 
+<br>
+<br>
 
 [![bik1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=bik1111)](https://github.com/bik1111/github-readme-stats)
 
