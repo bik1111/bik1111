@@ -47,7 +47,7 @@
 
 <div align=center>
 
-[![bik1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=bik1111&show_icons=true) <br>
+![bik1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=bik1111&show_icons=true) <br><br>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bik1111&layout=compact&theme=bik1111)
 
