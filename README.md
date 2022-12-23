@@ -46,4 +46,6 @@
 <br>
 
 [![bik1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=bik1111)](https://github.com/bik1111/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi5798&layout=compact&theme=tokyonight)
+
 
