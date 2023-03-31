@@ -53,8 +53,7 @@
   
 <div>
   
-  
+<div>
 ### 제가 최근에 작성한 글은요 . . 📝
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bik1111&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=bik1111) 
-
-
+  </div>
