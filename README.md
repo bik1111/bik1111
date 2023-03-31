@@ -37,23 +37,9 @@
 
  <!-- Conecct section: END -->
  
- 
-  <!-- GitHub section -->
-
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
-
-<br>
-<br>
-
-<div align=center>
-  
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bik1111&layout=compact&theme=bik1111)
 
   
-<div>
-  
-<div>
+
 ### 제가 최근에 작성한 글은요 . . 📝
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bik1111&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=bik1111) 
-  </div>
+
