@@ -51,9 +51,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bik1111&layout=compact&theme=bik1111)
 
   
-#### 제가 최근에 작성한 글은요 . . 📝
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bik111&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=bik1111)  
-  
 <div>
+  
+  
+### 제가 최근에 작성한 글은요 . . 📝
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bik1111&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=bik1111) 
 
 
