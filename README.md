@@ -41,5 +41,6 @@
   
 
 ### Recently, I wrote about this . . 📝
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bik1111&color=gray)](https://velog-readme-stats.vercel.app/api/redirect?name=bik1111) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bik1111&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+
 
