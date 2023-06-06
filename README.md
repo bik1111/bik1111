@@ -41,7 +41,7 @@
   
 
 ### 🌱 I’m currently learning ...
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bik1111)](https://github.com/bik1111/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bik1111)](https://velog.com/bik1111/)
 
 
 <br>
