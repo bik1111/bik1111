@@ -36,12 +36,10 @@
 
 
  <!-- Conecct section: END -->
- 
-
-  
+   
 
 ### 🌱 I’m currently learning ...
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bik1111)](https://velog.com/bik1111/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bik1111)](https://velog.io/@bik1111/)
 
 
 <br>
