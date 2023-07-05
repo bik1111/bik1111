@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/bik1111@khu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 <a href="https://velog.io/@bik1111"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://www.instagram.com/cheolll2/" target="_blank"><img src="https://img.shields.io/badge/cheolll2-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
-<a href="https://www.notion.so/e301333fb3924275b5fcc8026a888d5a" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
+<a href="[https://www.notion.so/e301333fb3924275b5fcc8026a888d5a](https://spiral-sturgeon-2b1.notion.site/Jincheol-Jung-b2efee80730f4f529c7c77aaaa8397c0?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
 
 
  <!-- Conecct section: END -->
