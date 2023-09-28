@@ -2,7 +2,7 @@
 <p><em>Software Convergence Student at <a href="http://swcon.khu.ac.kr/wordpress/"> Kyung Hee University  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<h3>Things I code with</h3>
+<h2>Things I code with</h2>
 <p>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -17,9 +17,6 @@
 
 
 </p>
-
-
-
 
 <h2>Connect with me </h3>
 
