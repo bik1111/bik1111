@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey,%Hello!&fontSize=100&fontAlign=50)
 
 <p><em>Software Convergence Student at <a href="http://swcon.khu.ac.kr/wordpress/"> Kyung Hee University  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
