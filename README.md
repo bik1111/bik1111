@@ -1,4 +1,6 @@
 
+## Hi, I'm Jincheol Jung 👋
+
 <p><em>Software Convergence Student at <a href="http://swcon.khu.ac.kr/wordpress/"> Kyung Hee University  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -26,15 +28,12 @@
 <a href="https://spiral-sturgeon-2b1.notion.site/Jincheol-Jung-b2efee80730f4f529c7c77aaaa8397c0?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
 
 
- <!-- Conecct section: END -->
    
 
 ### 🌱 I’m currently learning ...
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bik1111)](https://velog.io/@bik1111)
 
 <br>
-<br>
-
 
 <details>
 <p align="center">
